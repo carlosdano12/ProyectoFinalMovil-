@@ -20,9 +20,6 @@ namespace ProyectoFinalMovil.View {
         private global::Xamarin.Forms.Label estadoVentanaLbl;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.Entry id_usuario_Txt;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.Entry nombre_asignatura_Txt;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
@@ -35,7 +32,6 @@ namespace ProyectoFinalMovil.View {
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Page_Nueva_Asignatura));
             estadoVentanaLbl = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "estadoVentanaLbl");
-            id_usuario_Txt = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "id_usuario_Txt");
             nombre_asignatura_Txt = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "nombre_asignatura_Txt");
             numero_grupo_asignatura_Txt = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "numero_grupo_asignatura_Txt");
             numero_salon_asignatura_Txt = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "numero_salon_asignatura_Txt");
