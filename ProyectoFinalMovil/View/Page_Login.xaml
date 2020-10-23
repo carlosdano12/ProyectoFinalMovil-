@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinalMovil.View.Page_Login" Title="AsisApp">
+
+    <Grid>
+        <Grid Grid.Row="0" Margin="0,0,0,100">
+            <Frame Margin="10" CornerRadius="10">
+                <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" Margin="20,0" VerticalOptions="CenterAndExpand">
+                    <Label x:Name="estadoVentanaLbl" Text="Inicio de sesión" FontSize="Large" TextColor="#000000"/>
+                </StackLayout>
+            </Frame>
+        </Grid>
+        <Grid Grid.Row="1" Margin="0,-100,0,0">
+            <Frame Margin="10" CornerRadius="10">
+                <StackLayout VerticalOptions="Fill">
+                    <Entry x:Name="Correo_Sesion_Txt" Placeholder="Correo electronico" FontSize="20" Keyboard="Email"/>
+                    <Entry x:Name="Clave_Sesion_Txt" Placeholder="Contraseña" FontSize="20" IsPassword="True" Keyboard="Text"/>
+                    <FlexLayout>
+                        <Button x:Name="Inicio_Sesion_Btn" Text="Iniciar sesión" Clicked="Iniciar_Sesion_Btn_Clicked"/>
+                        <Button x:Name="Registro_Sesion_Btn" Text="Crear cuenta" Clicked="Registrar_Sesion_Btn_Clicked"/>
+                    </FlexLayout>
+                </StackLayout>
+            </Frame>
+        </Grid>
+    </Grid>
+
+
+</ContentPage>

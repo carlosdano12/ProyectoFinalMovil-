@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinalMovil.View.Page_Register" Title="AsisApp">
+    
+    
+    <!-- ESTE ES LA VISTA DONDE SE CREA UNA CUENTA-->
+
+    <Grid>
+        <Grid Grid.Row="0" Margin="0,0,0,100">
+            <Frame Margin="10" CornerRadius="10">
+                <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" Margin="20,0" VerticalOptions="CenterAndExpand">
+                    <Label x:Name="estadoVentanaLbl" Text="Registro" FontSize="Large" TextColor="#000000"/>
+                </StackLayout>
+            </Frame>
+        </Grid>
+        <Grid Grid.Row="1" Margin="0,-100,0,0">
+            <Frame Margin="10" CornerRadius="10">
+                <ScrollView>
+                    <StackLayout VerticalOptions="Fill">
+                        <Entry x:Name="Id_Registro_Txt" Placeholder="Identificación" FontSize="18" Keyboard="Chat"/>
+                        <Picker x:Name="Tipo_Id_Registro_Pk" Title="Tipo de identificacion">
+                            <Picker.Items>
+                                <x:String>cedula de ciudadania</x:String>
+                                <x:String>cedula de extranjeria</x:String>
+                                <x:String>pasaporte</x:String>
+                            </Picker.Items>
+                        </Picker>
+                        <Entry x:Name="Nombres_Registro_Txt" Placeholder="Nombres" FontSize="18" Keyboard="Text"/>
+                        <Entry x:Name="Apellidos_Registro_Txt" Placeholder="Apellidos" FontSize="18" Keyboard="Text"/>
+                        <Entry x:Name="Correo_Registro_Txt" Placeholder="Correo electronico" FontSize="18" Keyboard="Email"/>
+                        <Entry x:Name="Clave_Registro_Txt" Placeholder="Clave" FontSize="18" IsPassword="True" Keyboard="Text"/>
+                        <FlexLayout>
+                            <Button x:Name="Crea_Usuario_Registro_Btn" Text="Crear" Clicked="Crea_Usuario_Registro_Btn_Clicked"/>
+                            <Button x:Name="Cancelar_Btn" Text="Cancelar" Clicked="Cancelar_Btn_Clicked"/>
+                        </FlexLayout>
+                    </StackLayout>
+                </ScrollView>
+            </Frame>
+        </Grid>
+    </Grid>
+
+</ContentPage>

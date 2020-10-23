@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinalMovil.View.Page_Nueva_Asignatura">
+
+
+    <!-- ESTE ES LA VISTA DONDE SE CREA UNA ASIGNATURA-->
+
+    <Grid>
+        <Grid Grid.Row="0" Margin="0,0,0,100">
+            <Frame Margin="10" CornerRadius="10">
+                <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" Margin="20,0" VerticalOptions="CenterAndExpand">
+                    <Label x:Name="estadoVentanaLbl" Text="Crear asignatura" FontSize="Large" TextColor="#000000"/>
+                </StackLayout>
+            </Frame>
+        </Grid>
+        <Grid Grid.Row="1" Margin="0,-100,0,0">
+            <Frame Margin="10" CornerRadius="10">
+                <ScrollView>
+                    <StackLayout VerticalOptions="Fill">
+                        <Entry x:Name="id_usuario_Txt" Placeholder="Id usuario" FontSize="18" Keyboard="Chat"/>
+                        <Entry x:Name="nombre_asignatura_Txt" Placeholder="Nombre asignatura" FontSize="18" Keyboard="Text"/>
+                        <Entry x:Name="numero_grupo_asignatura_Txt" Placeholder="Número de grupo" FontSize="18" Keyboard="Numeric"/>
+                        <Entry x:Name="numero_salon_asignatura_Txt" Placeholder="Salón" FontSize="18" Keyboard="Chat"/>
+                    </StackLayout>
+                </ScrollView>
+            </Frame>
+        </Grid>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinalMovil.View.Page_Asign_Clas" Title="AsisApp">
+  
+    
+    
+    <!--EN ESTA VISTA SOLO HAY DOS PESTAÑAS, ASIGNATURAS Y CLASES-->    
+    
+    <ContentPage Title="Asignaturas">
+
+        <AbsoluteLayout>
+            <Frame BackgroundColor="#2296F3" CornerRadius="30" HasShadow="True"
+                   AbsoluteLayout.LayoutFlags="PositionProportional"
+                   AbsoluteLayout.LayoutBounds="1,1,-1,-1"
+                   Margin="10">
+                <Label Text="Nuevo" TextColor="White" FontSize="Medium"/>
+                <Frame.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="Btn_Nueva_Asignatura"/>
+                </Frame.GestureRecognizers>
+
+            </Frame>
+        </AbsoluteLayout>
+
+    </ContentPage>
+    
+    <ContentPage Title="Mi aprendizaje">
+        
+    </ContentPage>
+
+    <ContentPage Title="Notificaciones">
+
+    </ContentPage>
+
+    
+    
+
+</TabbedPage>

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "utrlrMtSDtgIaXOm0n1KFvmf/pL0XXf2vvR3cCUNoqCaZCi/wLuAKdT9BdKZUe/F/GbAFyXRMnccC2v9v1mtqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frank\\Downloads\\ProyectoFinalMovil-main\\ProyectoFinalMovil-main\\ProyectoFinalMovil.iOS\\ProyectoFinalMovil.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frank\\.nuget\\packages\\microsoft.bcl\\1.1.10\\microsoft.bcl.1.1.10.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\microsoft.bcl.build\\1.0.14\\microsoft.bcl.build.1.0.14.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\microsoft.net.http\\2.2.29\\microsoft.net.http.2.2.29.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

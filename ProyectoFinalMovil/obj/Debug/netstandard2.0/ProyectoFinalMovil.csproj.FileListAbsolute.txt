@@ -1,0 +1,66 @@
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\bin\Debug\netstandard2.0\ProyectoFinalMovil.deps.json
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\bin\Debug\netstandard2.0\ProyectoFinalMovil.dll
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.csprojAssemblyReference.cache
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.AssemblyInfoInputs.cache
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.AssemblyInfo.cs
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\View\Page_Login.xaml.g.cs
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\View\Page_Register.xaml.g.cs
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.csproj.CoreCompileInputs.cache
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\bin\Debug\netstandard2.0\ref\ProyectoFinalMovil.dll
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\bin\Debug\netstandard2.0\ProyectoFinalMovil.pdb
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.dll
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ref\ProyectoFinalMovil.dll
+D:\Universidad\Universidad semeste 10\ActualizacionTecnologica\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.pdb
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\bin\Debug\netstandard2.0\ProyectoFinalMovil.deps.json
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\bin\Debug\netstandard2.0\ProyectoFinalMovil.dll
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\bin\Debug\netstandard2.0\ref\ProyectoFinalMovil.dll
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\bin\Debug\netstandard2.0\ProyectoFinalMovil.pdb
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.csprojAssemblyReference.cache
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\View\Page_Login.xaml.g.cs
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\View\Page_Register.xaml.g.cs
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.AssemblyInfoInputs.cache
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.AssemblyInfo.cs
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.csproj.CoreCompileInputs.cache
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\XamlC.stamp
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.dll
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ref\ProyectoFinalMovil.dll
+F:\proyectos\proyectos xamarin\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.pdb
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\bin\Debug\netstandard2.0\ProyectoFinalMovil.deps.json
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\bin\Debug\netstandard2.0\ProyectoFinalMovil.dll
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\bin\Debug\netstandard2.0\ref\ProyectoFinalMovil.dll
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\bin\Debug\netstandard2.0\ProyectoFinalMovil.pdb
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.csprojAssemblyReference.cache
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\View\Page_Login.xaml.g.cs
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\View\Page_Register.xaml.g.cs
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.AssemblyInfoInputs.cache
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.AssemblyInfo.cs
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.csproj.CoreCompileInputs.cache
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.dll
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ref\ProyectoFinalMovil.dll
+C:\Users\frank\Downloads\ProyectoFinalMovil\ProyectoFinalMovil\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.pdb
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\bin\Debug\netstandard2.0\ProyectoFinalMovil.deps.json
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\bin\Debug\netstandard2.0\ProyectoFinalMovil.dll
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\bin\Debug\netstandard2.0\ref\ProyectoFinalMovil.dll
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\bin\Debug\netstandard2.0\ProyectoFinalMovil.pdb
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.csprojAssemblyReference.cache
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\obj\Debug\netstandard2.0\View\Page_Asign_Clas.xaml.g.cs
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\obj\Debug\netstandard2.0\View\Page_Login.xaml.g.cs
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\obj\Debug\netstandard2.0\View\Page_Register.xaml.g.cs
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.AssemblyInfoInputs.cache
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.AssemblyInfo.cs
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.csproj.CoreCompileInputs.cache
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.dll
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\obj\Debug\netstandard2.0\ref\ProyectoFinalMovil.dll
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\obj\Debug\netstandard2.0\ProyectoFinalMovil.pdb
+C:\Users\frank\Downloads\ProyectoFinalMovil-main\ProyectoFinalMovil-main\ProyectoFinalMovil\obj\Debug\netstandard2.0\View\Page_Nueva_Asignatura.xaml.g.cs
